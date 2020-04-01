@@ -1,0 +1,3 @@
+# Self Destruct
+
+import datetime
